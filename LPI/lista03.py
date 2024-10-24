@@ -23,10 +23,10 @@ def q3():
         print('o maior numero e o segundo : ' + b )
         print('e a diferenca deles é :' + diferenca) 
 
-def q4():
+def q04():
     salario = int(input('o salario é :'))
     valorPrestacao = int(input('valor da prestação : '))
-    if valorPrestacao > 20/100:
+    if valorPrestacao > salario*20/100:
         print('emprestimo não concedido')
     else:
         print('emprestimo concedido')
@@ -46,3 +46,4 @@ def q05():
         print(media)
 
 
+q04()

@@ -60,5 +60,5 @@ def q03():
                     if(i%2==0):
                         print(i, "Números pares!")
         
-        
-    
+
+q01While()

@@ -61,5 +61,4 @@ def q03():
                         print(i, "Números pares!")
         
         
-def q05():
     
